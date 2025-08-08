@@ -25,5 +25,5 @@ Hello! I'm **Marwan M. Kassem**, a recent Computer Science graduate from Egypt-J
 ## 🤝 Let's Connect!
 Feel free to connect or reach out for collaboration, internship opportunities, or just a chat!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/marwan-k-889380190/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marwan-k-889380190/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwankassem3828187@gmail.com)
