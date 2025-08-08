@@ -8,7 +8,6 @@ Hello! I'm **Marwan M. Kassem**, a recent Computer Science graduate from Egypt-J
 
 <img align="right" alt="Cybersecurity Illustration" width="200" src="https://cdn-icons-png.flaticon.com/512/4481/4481350.png" />
 
----
 ## 🔐 Skills
 - Programming: Python, C++, JavaScript, Bash (Basic), PowerShell (Basic)
 - Networking: HCIA-Datacom, Cisco Packet Tracer, Firewall, VPN, NAT
@@ -16,12 +15,12 @@ Hello! I'm **Marwan M. Kassem**, a recent Computer Science graduate from Egypt-J
 - Cloud Platforms: AWS (Basic), Google Cloud (Fundamentals), Virtual Machines
 - Databases: MySQL, MongoDB
 - Development Tools: Git, GitHub, VS Code, React.js
----
+
 ## 🎓 Education
 - **B.Sc. in Computer Science (Cybersecurity & Networking)**  
   Egypt-Japan University of Science and Technology (E-JUST), Alexandria, Egypt  
   Graduated: July 2025
----
+  
 ## 🤝 Let's Connect!
 Feel free to connect or reach out for collaboration, internship opportunities, or just a chat!
 
