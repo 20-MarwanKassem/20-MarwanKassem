@@ -22,7 +22,8 @@ Hello! I'm **Marwan M. Kassem**, a recent Computer Science graduate from Egypt-J
   Graduated: July 2025
   
 ## 🤝 Let's Connect!
-Feel free to connect or reach out for collaboration, internship opportunities, or just a chat!
+Feel free to reach out to me on LinkedIn or via email at marwankassem3828187@gmail.com for any inquiries, collaborations, or just to say hello!
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marwan-k-889380190/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwankassem3828187@gmail.com)
